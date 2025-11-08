@@ -29,5 +29,5 @@ Developed and launched a Wix-based eCommerce website for **Trayie Sarees**, focu
 - Enhanced digital portfolio demonstrating end-to-end website analytics setup.
 
 ---
-*Author: [Pavithra P](mailto:pavithrapillappa@outlook.com)*
+*Author: [Pavithra Pillappa](mailto:pavithrapillappa@outlook.com)*
 
